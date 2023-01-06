@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtv_nim" type="id" />
+    <item name="edt_name" type="id" />
+    <item name="txtv_name" type="id" />
+</resources>
